@@ -21,6 +21,16 @@
   \renewcommand*{\moreinfo}{(tea \&\ coffee at 2:30 p.m.)}%
   \renewcommand*{\announcer}{Marco Varisco}%
 }
+\DeclareOption{colloquiumSpecial}{%
+  \renewcommand*{\event}{Colloquium}%
+  \renewcommand*{\eventurl}{https://www.albany.edu/math/colloquium.shtml}%
+  \renewcommand*{\when}{2:00 p.m.}%
+  \renewcommand*{\where}{Massry 221}%
+  \renewcommand*{\moreinfo}{(tea \&\ coffee at 2:30 p.m.)}%
+  \renewcommand*{\announcer}{Marco Varisco}%
+}
+
+
 \DeclareOption*{\ClassWarningNoLine{UAmathtalk}
   {Unknown option `\CurrentOption'.\MessageBreak Using default option `seminar'}
 }
