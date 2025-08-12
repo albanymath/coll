@@ -1,0 +1,72 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <title>Colloquium</title>
+  <link rel="shortcut icon" href="UAfavicon.ico">
+  <link rel="stylesheet" href="seminar.css">
+  <meta name="author" content="Marco Varisco">
+  <meta name="description" content="Math Colloquium, University at Albany, State University of New York.">
+  <meta name="keywords" content="colloquium, math, mathematics">
+</head>
+
+<body>
+<div id="wrap">
+
+<div id="masthead">
+<p>
+  <a href="https://www.albany.edu/"><img alt="University at Albany, State University of New York" src="UAlogo.png"></a>
+</p>
+<p>
+  <a href="https://www.albany.edu/cas">College of Arts and&nbsp;Sciences</a><br>
+  <a href="https://www.albany.edu/math">Department of Mathematics and&nbsp;Statistics</a>
+</p>
+</div>
+
+<h1><a href="./">Colloquium</a></h1>
+
+<div id="side">
+<h2>When/Where</h2>
+<p>
+  Fridays 3:00&ndash;4:00<br>
+  SS 256 (except where noted)
+</p>
+<h2>Organizers</h2>
+<p>
+  <a href="https://www.albany.edu/~ji126652/">Joshua Isralowitz</a><br>
+  <a href="https://www.albany.edu/~ml644186/">Michael Lesnick</a><br>
+  <a href="https://yexf308.github.io/">Felix Ye</a><br>
+    <a href="https://www.albany.edu/~cz954339/">Changlong Zhong</a><br>
+</p>
+<h2 class="noprint">Past Semesters</h2>
+<p class="noprint semesters">
+ <span class="thissemester">Fall 2025</span><br>
+  <a href="index-24-9.html">Spring 2025</a><br>
+    <a href="https://web.archive.org/web/20231003113559/https://www.albany.edu/math/colloquia-and-seminars/past-colloquia">Older</a>
+
+</p>
+<!-- <h2 class="noprint"><a href="search.html">Search</a></h2> -->
+<!--<h2 class="noprint"><a href="stats.html">Statistics</a></h2> -->
+</div>
+
+<div id="main">
+<h2>Fall Semester 2025</h2>
+<dl>
+
+
+</div>
+
+
+
+<div id="footer">
+<p>
+ <!-- Updated <time datetime="2025-2-15">February&nbsp;15, 2025</time><br>-->
+  <a href="mailto:jisralowitz@albany.edu?subject=subscribe&body=Please%20add%20me%20to%20the%20Colloquium%20email%20list.">Subscribe to email announcements</a>
+</p>
+</div>
+
+</div>
+</body>
+</html>
